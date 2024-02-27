@@ -1,1 +1,1 @@
-this is sample text in text3.txt file in my-first-repo repository
+Updating test3.txt after creating Update Branch.
